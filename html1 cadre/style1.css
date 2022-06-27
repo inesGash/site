@@ -1,0 +1,7 @@
+.card {
+    margin-left: 40%;
+    border: 2px solid black;
+}
+.card-body {
+    text-align: center;
+}
